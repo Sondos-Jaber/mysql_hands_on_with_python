@@ -12,7 +12,7 @@ I assess the significance of categorical features by employing statistical metho
 ### 2.2 Numerical Features
 The importance of numerical features is determined through Pearson's coefficient analysis.
 
-## 3. Outlier Detection
+## 3. Cleaning data and outlier Detection
 A statistical approach, specifically Boxplot analysis, is utilized to identify outliers within the dataset.
 
 ## 4. Customer Satisfaction Modeling
