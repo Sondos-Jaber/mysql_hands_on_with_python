@@ -1,8 +1,9 @@
 # Airline Passenger Satisfaction Prediction
-## *** Overview***
+##  Overview
 This analysis targets to understanding and enhancing passengers' satisfaction within the context of our dataset. The objectives are as follows:
 
-## 1. Connecting a MySQL database with Python. The focus is on efficiently importing data from the database into the Python enviroment for dataanalysis purposes.
+## 1. Connecting a MySQL database with Python.
+   The focus is on efficiently importing data from the database into the Python enviroment for dataanalysis purposes.
 
 ## 2. Feature Relevance Evaluation
 ### 2.1 Categorical Features
