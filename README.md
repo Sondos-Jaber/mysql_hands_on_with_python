@@ -1,4 +1,4 @@
-# Airline Passenger Predicting Satisfaction Prediction
+# Airline Passenger Satisfaction Prediction
 # Overview
 This analysis targets to understanding and enhancing passengers' satisfaction within the context of our dataset. The objectives are as follows:
 
