@@ -1,4 +1,4 @@
-# mysql_hands_on_with_python : Predicting the customer's satisfaction
+# Airline Passenger Predicting Satisfaction Prediction
 # Overview
 This analysis targets to understanding and enhancing passengers' satisfaction within the context of our dataset. The objectives are as follows:
 
@@ -15,7 +15,7 @@ The importance of numerical features is determined through Pearson's coefficient
 A statistical approach, specifically Boxplot analysis, is utilized to identify outliers within the dataset.
 
 ## 4. Customer Satisfaction Modeling
-The ultimate goal is to create a model for predicting customer satisfaction. This involves:
+The ultimate goal is to create a model for predicting customer satisfaction applying ***SVM (Support Vector Machine) classifier***. This involves:
 Utilizing both categorical and numerical inputs.
 Employing a binary classification target variable.
 ### 4.1 Algorithm Selection
