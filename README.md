@@ -1,4 +1,4 @@
-# mysql_hands_on_with_python : Ppredicting the customer's satisfaction
+# mysql_hands_on_with_python : Predicting the customer's satisfaction
 # Overview
 This analysis targets to understanding and enhancing passengers' satisfaction within the context of our dataset. The objectives are as follows:
 
