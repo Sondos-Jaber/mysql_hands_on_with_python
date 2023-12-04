@@ -16,7 +16,7 @@ A statistical approach, specifically Boxplot analysis, is utilized to identify o
 The ultimate goal is to create a model for predicting customer satisfaction. This involves:
 Utilizing both categorical and numerical inputs.
 Employing a binary classification target variable.
-3.1 Algorithm Selection
+### 3.1 Algorithm Selection
 I apply the Linear Support Vector Classification (Linear SVC) algorithm from the scikit-learn library for the classification task.
 
 # Data Sources
