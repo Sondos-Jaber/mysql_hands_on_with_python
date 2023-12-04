@@ -3,7 +3,7 @@
 This analysis targets to understanding and enhancing passengers' satisfaction within the context of our dataset. The objectives are as follows:
 
 ## 1. Feature Relevance Evaluation
-1.1 Categorical Features
+### 1.1 Categorical Features
 I assess the significance of categorical features by employing statistical methods such as chi-squared and mutual information statistics.
 
 ### 1.2 Numerical Features
