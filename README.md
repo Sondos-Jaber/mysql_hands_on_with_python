@@ -1,18 +1,18 @@
-# mysql_hands_on_with_python
+# mysql_hands_on_with_python : Ppredicting the customer's satisfaction
 # Overview
 This analysis targets to understanding and enhancing passengers' satisfaction within the context of our dataset. The objectives are as follows:
 
-1. Feature Relevance Evaluation
+## 1. Feature Relevance Evaluation
 1.1 Categorical Features
 I assess the significance of categorical features by employing statistical methods such as chi-squared and mutual information statistics.
 
-1.2 Numerical Features
+### 1.2 Numerical Features
 The importance of numerical features is determined through Pearson's coefficient analysis.
 
-2. Outlier Detection
+## 2. Outlier Detection
 A statistical approach, specifically Boxplot analysis, is utilized to identify outliers within the dataset.
 
-3. Customer Satisfaction Modeling
+## 3. Customer Satisfaction Modeling
 The ultimate goal is to create a model for predicting customer satisfaction. This involves:
 Utilizing both categorical and numerical inputs.
 Employing a binary classification target variable.
